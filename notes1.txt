@@ -1,0 +1,7 @@
+• TFHE‐rs: Rust library for FHE arithmetic over encrypted data .
+
+• Concrete / Concrete ML: tools for converting Python code and machine learning to FHE format.
+
+• fhEVM: the world's first virtual mechanism for the execution of confidential smart contracts (FHEVM application) on EVM-compatible blockchains.
+
+• Confidential Blockchain Protocol: a layer for any L1/L2 that provides end-to-end state and transaction encryption, facilitating the interaction of confidential and public contracts.
